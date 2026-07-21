@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0132_000-T.yaml, hash: 'sha256:b13dcc839f215ef0ee7ce00ec8560942e2a74c813ef93ff2e2ac113a5d680d32'}
+  - {seq: 0, filename: KR6r0132_000-T.yaml, hash: 'sha256:1761bdb5bf3080831ddbcab1031afca877e97e4fedaac58d92d00b0a1187da1f'}
   - {seq: 1, filename: KR6r0132_001-T.yaml, hash: 'sha256:fb3a2e3a2f0a52a5815758164ff0ed07dd67161d6a542b1b108a76ac33792632'}
   - {seq: 2, filename: KR6r0132_002-T.yaml, hash: 'sha256:13f6304ea44688fcdde0654a5c8fb5e8d7597ae2fbbceafec6f3be2ef061aeb3'}
   - {seq: 3, filename: KR6r0132_003-T.yaml, hash: 'sha256:838e2c1ad2199789a3455b34eda8d4c3aa6493a328b6474e0b987246b4b2bf43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0132_000-T.markers.yaml, hash: 'sha256:b274a7ed12aa96b0f2d6fbb8712c95b1f24c94b07e0c630341acc3b5a0d255cf'}
+  - {seq: 0, role: markers, filename: assets/KR6r0132_000-T.markers.yaml, hash: 'sha256:d3fd01f742509772c69219949c1ecb749ff0dedd2392add4be83afe517b73364'}
   - {seq: 1, role: markers, filename: assets/KR6r0132_001-T.markers.yaml, hash: 'sha256:bbb9e7c9100cd8a5e15a8fe0bdbaf631af623721023a3da52b661366cd51d1c6'}
   - {seq: 2, role: markers, filename: assets/KR6r0132_002-T.markers.yaml, hash: 'sha256:58f9bd7eff0665248314d685864c0eef7189d369b277ecefbcd74243bb0304bb'}
   - {seq: 3, role: markers, filename: assets/KR6r0132_003-T.markers.yaml, hash: 'sha256:f21c47f7367d7955c64b81629e76a1284dd4184340ed356aa8d48bf9e5556df8'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 南嶽總勝集敘
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-2
     span:
-    - front
+    - body
     - 486
     - 486
   label: 南嶽總勝集卷上序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-3
     span:
-    - front
+    - body
     - 493
     - 493
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-4
     span:
-    - front
+    - body
     - 781
     - 781
   label: 南嶽總勝集總序
@@ -2899,4 +2899,4 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:463403aa1a35b43122dcf8a65854b211b01b5a19dc9b5c81c1122e7f1099143c
+hash: sha256:cf5f2c1eedd7b287a718d60b05addfb1a9d6eacbd4263c3cd418370a267cffa4

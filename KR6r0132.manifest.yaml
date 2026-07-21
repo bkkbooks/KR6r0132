@@ -21,12 +21,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0132_000.yaml, hash: 'sha256:8f5fa87b3f52153b1ee36c3529f48515597655e4310f0e7d184aa7412131e4bd'}
+  - {seq: 0, filename: KR6r0132_000.yaml, hash: 'sha256:3ba85bf0fda9893c0a4033648dc5e8047fd41ddbe77e287ee3cacf72aa7d2fd2'}
   - {seq: 1, filename: KR6r0132_001.yaml, hash: 'sha256:caf43964096bcc40d441c8a779f605f4534e967a818c18598adf345458125e63'}
   - {seq: 2, filename: KR6r0132_002.yaml, hash: 'sha256:25e88c5f39d4f88064b4947a4187ab047a8dea546fe235331f6ce74dcd9e8f59'}
   - {seq: 3, filename: KR6r0132_003.yaml, hash: 'sha256:86593f6dc7c27890d3816f9a56bd73b8201a2f8af34ea5bf5af7d9c414313aff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0132_000.markers.yaml, hash: 'sha256:4b286ecdcfc04b1a01bf13aec9b8a5d9ce7d6868dd87fbe640f4266057f30bee'}
+  - {seq: 0, role: markers, filename: assets/KR6r0132_000.markers.yaml, hash: 'sha256:a4a26f4dea76ecf1dbeb742799ef3ff84de05747b107a0930ebade2fe3cdac2a'}
   - {seq: 1, role: markers, filename: assets/KR6r0132_001.markers.yaml, hash: 'sha256:2b4b7c1f4223c7a4b89e3d4699db20c39b970a224f2745d4f37eb563cf771846'}
   - {seq: 2, role: markers, filename: assets/KR6r0132_002.markers.yaml, hash: 'sha256:71f70640137042a7c5cf57850e87d999deff4bf0d9bfdc340cee3e503cceb8b0'}
   - {seq: 3, role: markers, filename: assets/KR6r0132_003.markers.yaml, hash: 'sha256:cfb3df87bbed84e874fe4d636ea6c26bb81f421765f9c86dfdaad39bdbb187d2'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 南嶽總勝集敘
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-2
     span:
-    - front
+    - body
     - 486
     - 486
   label: 南嶽總勝集卷上序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-3
     span:
-    - front
+    - body
     - 493
     - 493
   label: 序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0132_T_000-mulu-4
     span:
-    - front
+    - body
     - 781
     - 781
   label: 南嶽總勝集總序
@@ -2901,7 +2901,7 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:607dccc37cd3b3e45540ebd45e12fff2efc4fda6f9e1a6758e509f80264ff425
+hash: sha256:197b1354e2fffa931b1954287e8817d2dde2b35cb51dfbc03a355bbcd3eb6e37
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
